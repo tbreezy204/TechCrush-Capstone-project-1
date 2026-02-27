@@ -1,3 +1,5 @@
+# TechCrush-Capstone-project-1
+STATIC WEBSITE DEPLOYMENT TO AZURE VIA CLI + GITHUB ACTIONS
 <!-- # TechCrush-Capstone-project-1
 STATIC WEBSITE DEPLOYMENT TO AZURE VIA CLI + GITHUB ACTIONS
 # Static Website Deployment to Azure via CLI + GitHub Actions
